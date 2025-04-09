@@ -10,6 +10,6 @@ It serves as an **online portfolio** to showcase my ability of designing a good 
 
 
 ## 📂 Project Structure
-- Index
+- Landing-Page
 - README
 - style
